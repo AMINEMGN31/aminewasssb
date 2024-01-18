@@ -1,5 +1,5 @@
 function spart(was) {
-
+var k;
   var ApplicantsData = [];
     for (var j = 0; j < parseInt(was); j++) {
         ApplicantsData[j] = {};
